@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+jieba==0.42.1
+pyecharts==2.0.3
+Requests==2.32.3
+streamlit==1.41.1
+streamlit_echarts==0.4.0
